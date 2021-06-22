@@ -1,5 +1,5 @@
 os: linux
-arch: amd64
+arch: ppc64le
 rvm: 2.6.3
 jobs:
   include:
